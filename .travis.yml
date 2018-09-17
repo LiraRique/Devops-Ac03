@@ -2,4 +2,4 @@
 python:
   - "3.4"
 script:
-  - cd SRC; python testes.py
+  - cd SRC; python Testes.py
